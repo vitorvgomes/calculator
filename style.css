@@ -45,3 +45,11 @@ button {
 button:hover {
     background-color: black;
 }
+
+.igual{
+    height: 106px;
+}
+
+.zero {
+    width: 106px;
+}
